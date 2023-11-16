@@ -1,0 +1,51 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    background-image: url(dose-juice-sTPy-oeA3h0-unsplash.jpg);
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+    border-bottom: solid 2px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+main{
+    text-align: center;
+}
+
+.container{
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    border: solid rgb(4, 47, 4) 5px;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 35px;
+    width: 300px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-size: 30px;
+}
+#increment-btn{
+    background-color: rgb(139, 168, 139);
+    color: black;
+}
+#save-btn{
+    background-color: rgb(4, 47, 4);
+    color: white;
+}
+#save-el{
+    font-size: 30px;
+}
